@@ -13,6 +13,7 @@ Exploring the BikeShare data using Python
 new_york_city.csv
 washington.csv
 chigaco.csv
+bikeshare_2.py
 
 ### Credits
 Udacity course on bikeshare data
