@@ -20,6 +20,11 @@ DAY_DICT = {'monday': 0,
             'sunday': 6}
 
 def get_key(val, dictionary):
+    """
+    Function to use the value of a dictionary to return the key.
+
+    Returns the key of a dictionary value if found.
+    """
     for key, value in dictionary.items():
         if val == value:
             return key
