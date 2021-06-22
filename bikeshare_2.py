@@ -10,7 +10,13 @@ MONTH_DICT = {  'january': 1,
                 'march': 3,
                 'april': 4,
                 'may': 5,
-                'june': 6}
+                'june': 6
+                'july':7
+                'august':8
+                'september':9
+                'october':10
+                'november':11
+                'december':12}
 DAY_DICT = {'monday': 0,
             'tuesday': 1,
             'wednesday': 2,
